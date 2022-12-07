@@ -1,0 +1,23 @@
+.aespa ul li {
+    display: inline-block;
+    margin-left: 20px;
+    list-style: none;
+    background-color: rgb(158, 52, 87)d;
+}
+
+.aespa ul li a {
+  text-decoration: none;
+  color: rgb(253, 180, 204);
+  font-size: 25px;
+  font-family: arial;
+}
+
+.aespa {
+    float: right;
+    background-color: rgb(158, 52, 87);
+}
+
+.aespa ul li a:hover{
+    color: lightblue;
+    transition: 0.3s;
+}
